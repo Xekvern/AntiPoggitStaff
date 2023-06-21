@@ -115,7 +115,7 @@ $pwayer->getInventory()->addItem($💩);
 					$cheekyPotatos = $trincuko->getPlayer();
 			$whoPotat = $cheekyPotatos->getDisplayName();
 
-				$cheekyPotatos->sendTitle(UrDucksMilf::GOLD . "Get Trincuko'd");
+				$cheekyPotatos->sendTitle(UrDucksMilf::GOLD . "Get wrecked!");
 
 
 
